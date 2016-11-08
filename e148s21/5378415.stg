@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Airport/ndb.ac 148.949167 -20.356944 7.7 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 148.955833 -20.351111 179.99 180
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 148.9425542 -20.3491218 -0.02 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 148.9447187 -20.3471997 -0.01 0
+OBJECT_SHARED Models/Commercial/hotel-generic-01.xml 148.9495034 -20.3515971 9.45 88.6
+OBJECT_SHARED Models/Maritime/Misc/yachting-floating-pier-25m.ac 148.9469063 -20.3491983 0 320
+OBJECT_SHARED Models/Maritime/Civilian/Pilot_Boat.ac 148.9460321 -20.3482421 0 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 148.9458025 -20.3485778 0 0
